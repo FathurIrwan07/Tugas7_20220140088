@@ -1,0 +1,53 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem;
+}
+
+
+.jumbotron {
+  background-color: #f8f9fa;
+}
+
+.jumbotron h1 {
+  color: #b37502;
+}
+
+.jumbotron p {
+  color: #6c757d;
+}
+
+.jumbotron button {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.jumbotron button:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+/* Styling Footer */
+.footer {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+.footer-section h3 {
+  color: #f8f9fa;
+}
+
+.footer-section p {
+  color: #f8f9fa;
+}
